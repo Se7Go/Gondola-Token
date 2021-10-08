@@ -1,0 +1,27 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/3879.png",
+    "tokenId": 3879,
+    "name": "Gondola Token #3879",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(166, 161, 161, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Dead"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Propeller Cap"
+        }
+    ]
+}

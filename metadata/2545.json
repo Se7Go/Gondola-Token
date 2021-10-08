@@ -1,0 +1,27 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/2545.png",
+    "tokenId": 2545,
+    "name": "Gondola Token #2545",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(166, 161, 161, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Office Glasses"
+        },
+        {
+            "trait_type": "Eyemisc color2",
+            "value": "(236, 121, 57, 127)"
+        }
+    ]
+}

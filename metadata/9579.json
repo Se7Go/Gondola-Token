@@ -1,0 +1,27 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/9579.png",
+    "tokenId": 9579,
+    "name": "Gondola Token #9579",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(213, 196, 88, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Mouthmisc",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Wonder"
+        }
+    ]
+}

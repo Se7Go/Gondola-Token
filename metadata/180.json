@@ -1,0 +1,43 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/180.png",
+    "tokenId": 180,
+    "name": "Gondola Token #180",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(196, 155, 204, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Hairy"
+        },
+        {
+            "trait_type": "Mouthmisc",
+            "value": "Clown Nose"
+        },
+        {
+            "trait_type": "Mouthmisc color1",
+            "value": "(223, 124, 192, 255)"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Big Eyebrow"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Headband"
+        },
+        {
+            "trait_type": "Hat color1",
+            "value": "(183, 194, 200, 255)"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/4070.png",
+    "tokenId": 4070,
+    "name": "Gondola Token #4070",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(196, 92, 113, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Circle Glasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Punk Haircut"
+        },
+        {
+            "trait_type": "Hat color1",
+            "value": "(222, 222, 222, 255)"
+        }
+    ]
+}

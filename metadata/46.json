@@ -1,0 +1,35 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/46.png",
+    "tokenId": 46,
+    "name": "Gondola Token #46",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(145, 155, 210, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Tattoo #Heart#"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Overkill"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Afro Haircut"
+        },
+        {
+            "trait_type": "Hat color1",
+            "value": "(62, 97, 255, 255)"
+        }
+    ]
+}

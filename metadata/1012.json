@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/1012.png",
+    "tokenId": 1012,
+    "name": "Gondola Token #1012",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(166, 161, 161, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        }
+    ]
+}

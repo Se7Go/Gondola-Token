@@ -1,0 +1,43 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/3511.png",
+    "tokenId": 3511,
+    "name": "Gondola Token #3511",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(213, 196, 88, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Brand Pants"
+        },
+        {
+            "trait_type": "Pants color1",
+            "value": "(58, 49, 124, 255)"
+        },
+        {
+            "trait_type": "Pants color3",
+            "value": "(53, 52, 62, 255)"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Idle"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bucket Hat"
+        },
+        {
+            "trait_type": "Hat color1",
+            "value": "(66, 74, 144, 255)"
+        }
+    ]
+}

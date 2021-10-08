@@ -1,0 +1,51 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/4068.png",
+    "tokenId": 4068,
+    "name": "Gondola Token #4068",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(253, 163, 104, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Pants",
+            "value": "Hologram"
+        },
+        {
+            "trait_type": "Pants color1",
+            "value": "(129, 115, 116, 255)"
+        },
+        {
+            "trait_type": "Pants color4",
+            "value": "(253, 217, 78, 127)"
+        },
+        {
+            "trait_type": "Mouthmisc",
+            "value": "Scars"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Rider Glasses"
+        },
+        {
+            "trait_type": "Eyemisc color2",
+            "value": "(189, 176, 109, 127)"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "#Madness#"
+        },
+        {
+            "trait_type": "Hat color1",
+            "value": "(62, 97, 255, 255)"
+        }
+    ]
+}

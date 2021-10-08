@@ -1,0 +1,23 @@
+{
+    "image": "https://github.com/Se7Go/Gondola-Token/tree/main/images/5320.png",
+    "tokenId": 5320,
+    "name": "Gondola Token #5320",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Background color1",
+            "value": "(213, 196, 88, 255)"
+        },
+        {
+            "trait_type": "Gondola",
+            "value": "Gondola"
+        },
+        {
+            "trait_type": "Eyemisc",
+            "value": "Eyelashes"
+        }
+    ]
+}
